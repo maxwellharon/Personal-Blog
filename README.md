@@ -1,6 +1,6 @@
 # Personal-Blog
-## Maxwell Haron
-#### Maxblog is a blogging  site that allows a user to create and share opinions regarding a certain topic.Users Of Maxblog are able to create an account in the blogging site which enables them to make posts of their own and also view other peoples posts.When logged in,a user can also add a picture to their profile.
+### Maxwell Haron
+###### Maxblog is a blogging  site that allows a user to create and share opinions regarding a certain topic.Users Of Maxblog are able to create an account in the blogging site which enables them to make posts of their own and also view other peoples posts.When logged in,a user can also add a picture to their profile.
 #### The live link to Maxblog is:
  28th June 2018 09.30pm
 #### By **Maxwell Haron**
@@ -12,7 +12,7 @@
 * Terminal if you want to access the app locally through your computer
 
 #### Installation
-* Clone or download the the app from this link -
+* Clone or download the the app from this link -https://github.com/maxwellharon/Personal-Blog
 * Install a virtual environment in your project folder by running the following commands `$sudo apt-get install python3.6-venv` and `$ python3.6 -m venv virtual`.To activate the virtual environment run `$ source virtual/bin/activate`
 * To install Flask,run the following command `$ source virtual/bin/activate` then `python3.6 -m pip install flask`
 * In the terminal,run the app by running the following command `python3.6 run.py`
